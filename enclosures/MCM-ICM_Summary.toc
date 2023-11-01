@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Problem Background}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Restatement of the Problem}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Our Work}{4}{}%
+\contentsline {section}{\numberline {2}Assumptions and Justification}{4}{}%
+\contentsline {section}{\numberline {3}Model I : Multilayer Perceptron}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Data Description}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Overview of the Model}{6}{}%
+\contentsline {subsection}{\numberline {3.3}The Establishment of Model I}{7}{}%
+\contentsline {subsection}{\numberline {3.4}The Solution of Model I and Question I}{7}{}%
+\contentsline {subsection}{\numberline {3.5}The Solution of Question IV}{8}{}%
+\contentsline {section}{\numberline {4}Model II : MLP and GBDT}{12}{}%
+\contentsline {subsection}{\numberline {4.1}Data Description}{12}{}%
+\contentsline {subsection}{\numberline {4.2}Overview of the Model}{12}{}%
+\contentsline {subsection}{\numberline {4.3}The Establishment of Model II}{12}{}%
+\contentsline {subsection}{\numberline {4.4}The Solution of Model II and Question II}{12}{}%
+\contentsline {section}{\numberline {5}Model III : K-Means and KNN}{15}{}%
+\contentsline {subsection}{\numberline {5.1}Data Description}{15}{}%
+\contentsline {subsection}{\numberline {5.2}Overview of the Model}{15}{}%
+\contentsline {subsection}{\numberline {5.3}The Establishment of Model III}{15}{}%
+\contentsline {subsection}{\numberline {5.4}The Solution of Model III and Question III}{15}{}%
+\contentsline {section}{\numberline {6}Sensitivity Test}{17}{}%
+\contentsline {section}{\numberline {7}Evalution of Models}{18}{}%
+\contentsline {subsection}{\numberline {7.1}Strengths and Weakness}{18}{}%
+\contentsline {subsubsection}{\numberline {7.1.1}Strengths}{18}{}%
+\contentsline {subsubsection}{\numberline {7.1.2}Weakness}{18}{}%
+\contentsline {subsection}{\numberline {7.2}Further Discussion}{18}{}%
+\contentsline {section}{\numberline {8}Conclusion}{18}{}%
+\contentsline {section}{\numberline {9}Reference}{19}{}%
+\contentsline {section}{\numberline {10}Appendix}{22}{}%
